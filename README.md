@@ -21,7 +21,7 @@ The changes include:
 
 ## Installation
 
-1) Clone '''git clone git@github.com:username/repo.git'''
+1) git clone git@github.com:username/repo.git
 2) Change into project's directory
 3) Start application on VS code
 
