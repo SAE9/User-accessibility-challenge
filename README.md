@@ -29,12 +29,12 @@ The changes include:
 ## Usage 
 
 1) Edited the title from website to Horiseon homepage for a marketing website in title element.
-```md [alt text](assets/title.png) ```
+```md [see here](assets/title.png) ```
 2) Added header by changing div to header element ensurin all heading falls into sequential order.
 3) Added alts for each images and icons used
- ```md [alt text](assets/code-1.png) ```
+ ```md [see here](assets/code-1.png) ```
 4) Ensured the HTML semmantics used throughout and in right order replacing some divs to elements like header,article and aside. The semantics order as the following header,nav,main,article,aside and footer.
- ```md [alt text](assets/code-2.png) ```
+ ```md [see here](assets/code-2.png) ```
 
 ## Credits
 
