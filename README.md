@@ -30,7 +30,7 @@ The changes include:
 
 1) Edited the title from website to Horiseon homepage for a marketing website in title element.
 ![see here](assets/images/title.png)
-2) Added header by changing div to header element ensurin all heading falls into sequential order.
+2) Added header by changing div to header element ensuring all heading falls into sequential order.
 3) Added alts for each images and icons used
 ![see here](assets/images/code-1.png)
 4) Ensured the HTML semmantics used throughout and in right order replacing some divs to elements like header,article and aside. The semantics order as the following header,nav,main,article,aside and footer.
